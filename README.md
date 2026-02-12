@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently building full-stack and while continuously sharpening my problem-solving skills through daily Data Structures & Algorithms practice.<br>I’m a React lover, a JavaScript enthusiast, and someone who believes in writing clean, scalable, and maintainable UI.<br><br>I debug faster after coffee and still refactor code even when it works 😌
+I’m currently building full-stack applications while continuously sharpening my problem-solving skills through daily Data Structures & Algorithms practice.<br>I’m a React lover, a JavaScript enthusiast, and someone who believes in writing clean, scalable, and maintainable UI.<br><br>I debug faster after coffee and still refactor code even when it works 😌
 
 
 ## 🌐 Socials:
